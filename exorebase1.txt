@@ -1,2 +1,4 @@
 
-Fichier crée pour le rebase1 dans la branche rebase1
+Fichier crée pour le rebase1 dans la branche rebase1/
+
+Modification 1/
