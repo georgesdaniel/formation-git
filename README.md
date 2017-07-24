@@ -1,3 +1,5 @@
 # formation-git
 personal repository, nothing to see here
-test local
+<<<<<<< HEAD
+test local bonne version finale
+
