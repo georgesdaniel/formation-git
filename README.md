@@ -1,4 +1,4 @@
 # formation-git
-<! Example d'un readme -->
+<! Exemple d'un readme -->
 
-#h1 Application mobile de gestion de football en salle
+# Application mobile de gestion de football en salle
